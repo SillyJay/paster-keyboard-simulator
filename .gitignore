@@ -1,0 +1,10 @@
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
